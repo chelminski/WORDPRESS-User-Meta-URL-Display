@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: User Meta URL Display
-Plugin URI: https://astoria.studio
+Plugin URI: https://github.com/chelminski/WP-User-Meta-URL-Display
 Description: A simple WordPress plugin to retrieve and display user meta data from the URL. The user is specified via the `?user=<username>` parameter, allowing you to personalize content dynamically on your site.
 Version: 1.0
 Author: ChatGPT
-Author URI: https://astoria.studio
+Author URI: https://github.com/chelminski
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 */
