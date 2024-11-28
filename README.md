@@ -28,3 +28,6 @@ Display the meta key `favorite_color` for the user `john_doe`:
 
 Customize the error message: 
 `[user_meta_url key="favorite_color" error="No favorite color set"]`
+
+### License
+This plugin is licensed under the GPLv2 or later license.
