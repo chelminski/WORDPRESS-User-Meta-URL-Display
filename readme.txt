@@ -1,4 +1,4 @@
-=== WordPress User Meta URL Display ===
+=== User Meta URL Display ===
 Contributors: chelminski
 Tags: user meta, URL, shortcode
 Requires at least: 5.0
@@ -6,6 +6,9 @@ Tested up to: 6.7.1
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+== Short Description ==
+A simple plugin that retrieves and displays user meta data from the URL using a shortcode.
 
 == Description ==
 A simple WordPress plugin to retrieve and display user meta data from the URL.
